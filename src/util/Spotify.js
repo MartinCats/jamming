@@ -1,5 +1,5 @@
 const clientId = '0aceb783f3564d618c43c60c35d20f47'
-const redirectUri = 'http://localhost:3000/'
+const redirectUri = 'https://spotify-zipper.surge.sh/'
 let accessToken;
 
 const Spotify = {
